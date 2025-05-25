@@ -173,3 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 *.sqlite
+/.vs/deep-learning-foundations/CopilotIndices/17.13.449.12402
+/.vs/deep-learning-foundations/FileContentIndex/f149ddd6-fdd3-4f80-8a7c-fc6b579f0b0d.vsidx
+*.vsidx
+/.vs/ProjectSettings.json
